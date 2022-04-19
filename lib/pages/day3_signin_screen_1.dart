@@ -8,7 +8,7 @@ class SignInScreen1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        backgroundColor: const Color(0x0ff181a2),
+        backgroundColor: const Color(0XFF181A20),
         body: SingleChildScrollView(
           child: Padding(
             padding: const EdgeInsets.all(40),
