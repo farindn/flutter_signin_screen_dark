@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/flutter_7days_masetring_ui/BuildConfig.java
+ com.example.flutter_7days_masetring_ui.BuildConfig

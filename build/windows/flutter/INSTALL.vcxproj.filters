@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\flutter_7days_masetring_ui\build\windows\CMakeFiles\ebd062b6a39b530f51c9b97054ff451a\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DDD7DB9A-2A72-36BE-90AC-9E710E8A4592}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
